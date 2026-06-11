@@ -10,3 +10,5 @@ This is feature 2.o
 This is bug branch
 
 # This is commit 1
+
+# This is commit 2
