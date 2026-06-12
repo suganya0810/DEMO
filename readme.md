@@ -10,3 +10,5 @@ This is feature 2.o
 This is bug branch
 
 # This is head 1
+
+# This is head 2
